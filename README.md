@@ -62,7 +62,7 @@
 ### Streaks & Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrinal-daharia&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=mrinal-daharia&theme=github-dark" />
   <br><br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrinal-daharia&theme=tokyonight" />
 </p>
