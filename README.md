@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&width=600&lines=Hello,+I'm+Mrinal+Bahadur+Daharia;Software+Developer+%7C+Tech+Enthusiast+%7C+UI/UX+Designer" />
 </h1>
@@ -16,7 +15,7 @@
         <li>🔥 <b>Passionate about Programming, Web Development</b></li>
         <li>🎨 <b>3+ Years of Experience in Photoshop</b></li>
         <li>🌱 <b>Currently Focused on JavaScript & Full-Stack Development</b></li>
-        <li>⚙️ <b> Beyond tech, I’m passionate about design, creativity, and optimization..</b></li>
+        <li>⚙️ <b>Beyond tech, I’m passionate about design, creativity, and optimization.</b></li>
       </ul>
     </td>
     <td>
@@ -25,9 +24,8 @@
   </tr>
 </table>
 
-
-
 ---
+
 ### Connect with me
 
 <p align="center">
@@ -55,8 +53,8 @@
 ### GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrinal-daharia&show_icons=true&theme=dracula" height="150" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinal-daharia&layout=compact&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrinal-daharia&show_icons=true&theme=tokyonight" height="150" alt="Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinal-daharia&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
@@ -64,11 +62,7 @@
 ### Streaks & Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrinal-daharia&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrinal-daharia&theme=tokyonight" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrinal-daharia&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrinal-daharia&theme=tokyonight" />
 </p>
-
-
----
-
