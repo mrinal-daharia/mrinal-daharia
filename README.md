@@ -53,8 +53,8 @@
 ### GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrinal-daharia&show_icons=true&theme=tokyonight" height="150" alt="Stats Graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinal-daharia&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrinal-daharia&show_icons=true&theme=radical" height="150" alt="Stats Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrinal-daharia&layout=compact&theme=radical" height="150" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ### Streaks & Contributions
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrinal-daharia&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrinal-daharia&theme=radical" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrinal-daharia&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrinal-daharia&theme=radical" />
 </p>
